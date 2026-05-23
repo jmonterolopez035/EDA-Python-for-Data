@@ -1,7 +1,7 @@
 # Análisis Exploratorio de Datos (EDA) - Campañas de Marketing Bancario
 
 ## Descripción del Proyecto
-Este proyecto realiza un análisis exploratorio de datos sobre campañas de marketing directo (llamadas telefónicas) de una institución bancaria. El objetivo es identificar patrones de comportamiento de los clientes y factores determinantes para la suscripción de productos/servicios.
+Este proyecto realiza un análisis exploratorio de datos sobre campañas de marketing de una institución bancaria. El objetivo es identificar patrones de comportamiento de los clientes y factores determinantes para la suscripción de productos/servicios.
 
 ## Estructura del Repositorio
 * `/datos/raw/`: Datasets originales sin modificar (.csv y .xlsx).
